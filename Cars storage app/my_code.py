@@ -2,6 +2,7 @@
 
 Dictionarya käytetään autojen rekisteröintietietojen tallentamiseen. 
 
+
 """
 
 
