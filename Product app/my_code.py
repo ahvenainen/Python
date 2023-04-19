@@ -1,5 +1,4 @@
 """
-
 Ohjelmalla hallinnoidaan yrityksen tuotteita.
 Kaikilla tuotteilla on samat yhteiset ominaisuudet: nimi, hinta, hyllypaikka sekä koodi.
 Nämä esitellään tuote-luokassa, jonka aliluokat perivät. Aliluokkia on kolme, joilla on omia ominaisuuksia:
